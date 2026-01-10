@@ -64,7 +64,7 @@ author:
 #      icon: "fas fa-fw fa-link"
 #      url: "https://www.jacob-dixon.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jacobtdixon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
