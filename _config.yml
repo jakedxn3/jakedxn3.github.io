@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jacob Dixon"
-  avatar : "assests/images/Jacob.jpg"
+  avatar : "assets/images/Jacob.jpg"
   bio    : "I am a natural resources conservation professional and graduate student at Oregon State University College of Earth, Ocean, and Atmospheric Science"
   links:
 #    - label: "Website"
