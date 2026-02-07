@@ -69,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jakedxn3"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jakedxn13"
+#    - label: "Instagram"
+#     icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/jakedxn13"
 
 footer:
   links:
@@ -84,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jakedxn3"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jakedxn13"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/jakedxn13"
 
 defaults:
   # _posts
