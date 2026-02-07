@@ -8,6 +8,6 @@ main:
   #- title: "About"
     #url: /about/
   - title: "Resume"
-    url: /resume/
+    url: https://jakedxn3.github.io/assets/files/Resume_020626.pdf
   - title: "Projects"
     url: /projects/
