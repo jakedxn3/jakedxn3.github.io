@@ -9,9 +9,22 @@ author_profile: FALSE
 
 ## Heading
 
-<div align="center">
-  <img src=/assets/images/Jacob.jpg height="100" />
+<div class="container">
+    <img src="/assets/annbib_figures/Gillespie_fig1.png" alt="Gillepsie et al, 2024; fig 1">
+    <div class="text-content">
+        <h2>Your Heading Here</h2>
+        <p>Gillespie, L. E., Ruffley, M., & Exposito-Alonso, M. (2024). Deep learning models map rapid plant species changes from citizen science and remote sensing data. Proceedings of the National Academy of Sciences, 121(37), e2318296121. https://doi.org/10.1073/pnas.2318296121 
 
+ 
+
+In this study, the authors introduce a new species distribution model (SDM), Deepbiosphere. The model is localized to California and combines iNaturalist citizen science species observations (n>650,000) with National Agricultural Imagery Program (NAIP) imagery (RGB+I, 1x1m resolution) in a convoluted neural network (CNN), TResNet (Ridnek et al., 2021). Genetically and spatially related species observations are grouped to improve accuracy for under observed species, and the model is passed through a climate data filter using WorldClim’s Bioclim variables. Deepbiosphere more accurately predicted species occurrences than TResNet or Bioclim networks on their own, and outcompeted common SDMs (Inception V3, Maxent, Random Forest).  
+
+The model was tested in several scenarios. The first observed patterns of old growth and second growth forest in Redwoods National Park and compared remote sensing classification to human annotation of remotely sensed imagery. Human annotators very accurately identified old growth redwood stands, but Deepbiosphere was able to additionally identify second growth redwood forests that annotators missed. The authors also explored modeling understory species (Oxalis oregana & Rubus ursinus) associated with these two redwood age classes, finding that Oxalis preferred mature stands and Rubus preferred young stands.  
+
+Relation to my research interest 
+
+This study presents a tremendous tool for managing species distribution change over time. Citizen science data has tremendous potential for modeling species distribution, especially in a “a species-rich and data-dense state with abundant high-quality remote sensing imagery” (Gillespie et al., 2024, p. 1) as the authors describe California. The method is very accurate and has excellent resolution due to the use of NAIP imagery. It is potentially limited by the fact that the model was only trained in California, NAIP imagery is constrained to the contiguous United States (CONUS), and it is constrained temporally because NAIP data is collected biannually (annually in some states). It would be interesting to see if a similar framework using lower spatial resolution but greater coverage and temporal resolution, such as Sentinel-2 data would be plausible (Sentinel-2 – Documentation, n.d.). </p>
+    </div>
 </div>
 
 
