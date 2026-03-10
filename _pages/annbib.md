@@ -2,7 +2,7 @@
 layout: single
 title: "AnnBib"
 sitemap: false
-permalink: /projects/annotated-bibliography/
+permalink: /projects/AnnBib/
 author_profile: FALSE
 
 ---
