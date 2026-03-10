@@ -6,193 +6,156 @@ permalink: /projects/AnnBib/
 author_profile: FALSE
 
 ---
+# Habitat fragmentation in California: Impacts of land use, climate change, and invasive species
 
-Habitat fragmentation in California: Impacts of land use, climate change, and invasive species. 
+# Annotated Bibliography
 
-Annotated Bibliography 
+# Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
 
-Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon 
+Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., & Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. _Diversity and Distributions_, _16_(3), 476-487. <https://doi.org/10.1111/j.1472-4642.2010.00654.x>
 
-Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., & Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. Diversity and Distributions, 16(3), 476–487. https://doi.org/10.1111/j.1472-4642.2010.00654.x 
+This study assesses increases, decreases, elimination, and introduction of novel climates in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter). From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log scale across the study area. The authors also visualize areas where directional responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move are greater. The opposite is true for the warmer-wetter scenario. The authors discuss topo climates and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate scale approach.
 
- 
+**Relevance to my research interest**
 
-This study assesses increases, decreases, elimination, and introduction of novel climates in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter). From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log scale across the study area. The authors also visualize areas where directional responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move are greater. The opposite is true for the warmer-wetter scenario. The authors discuss topo climates and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate scale approach. 
+As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by protecting connected areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data is important for accurate management decisions because topo climates (0.01-1 km variations) and microclimates (<10 m variations) as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate (1-100km variations) scale approach.
 
-Relevance to my research interest 
+Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? _Diversity and Distributions_, _31_(8), e70067. <https://doi.org/10.1111/ddi.70067>
 
-As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by protecting connected areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data is important for accurate management decisions because topo climates (0.01-1 km variations) and microclimates (<10 m variations) as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate (1-100km variations) scale approach. 
+Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. _Conservation Biology_, _25_(5), 879-892. <https://doi.org/10.1111/j.1523-1739.2011.01716.x>
 
- 
+Presented is a 7 step process for developing regional connectivity maps based on experience creating state and regional maps for California, and other areas.
 
-Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? Diversity and Distributions, 31(8), e70067. https://doi.org/10.1111/ddi.70067 
+The first step presented is to identify narrow goals for the map. Common goals are to identify areas where connectivity can be addressed or where projects that would reduce connectivity should be mitigated. The authors caution that an extensive, low resolution map should only identify where connections should be implemented, rather than be an implementable design in itself.
 
-Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. Conservation Biology, 25(5), 879–892. https://doi.org/10.1111/j.1523-1739.2011.01716.x 
+The second step is to involve stakeholders early in the planning process.
 
- 
+The third step identified is to define the region of interest, they recommend expanding the region to include linkages to neighboring regions (e.g. neighbouring states) and identify trade offs between large and small regions.
 
-Presented is a 7 step process for developing regional connectivity maps based on experience creating state and regional maps for California, and other areas.  
+The fourth step is to identify natural landscape blocks, select areas of high ecological integrity (areas with high level of natural cover, low road density, and limited edge effects), include protected areas, use expert opinion draw polygons by hand or use algorithms to identify areas that meet quality thresholds.
 
-The first step presented is to identify narrow goals for the map. Common goals are to identify areas where connectivity can be addressed or where projects that would reduce connectivity should be mitigated. The authors caution that an extensive, low resolution map should only identify where connections should be implemented, rather than be an implementable design in itself.  
+The fifth and sixth steps are to identify pairs of landscapes that would benefit from connectivity and to depecit connectivity if resources are available. If resources are not available for detailed linkage designs, then placehold linkages should be used and linkage designs will be developed over time.
 
-The second step is to involve stakeholders early in the planning process.  
+The final step is to provide supporting documents for future users to implement the connectivity map. This can include data for agencies to create priorities, information on focal species, and communication strategies to explain the map.
 
-The third step identified is to define the region of interest, they recommend expanding the region to include linkages to neighboring regions (e.g. neighbouring states) and identify trade offs between large and small regions.  
+**Relevance to my research interest**
 
-The fourth step is to identify natural landscape blocks, select areas of high ecological integrity (areas with high level of natural cover, low road density, and limited edge effects), include protected areas, use expert opinion draw polygons by hand or use algorithms to identify areas that meet quality thresholds.  
+The steps describe an easy to follow framework for developing connectivity maps. Together with models predicting necessary movements due to change, areas that facilitate this movement can be prioritized for protection.
 
-The fifth and sixth steps are to identify pairs of landscapes that would benefit from connectivity and to depecit connectivity if resources are available. If resources are not available for detailed linkage designs, then placehold linkages should be used and linkage designs will be developed over time. 
+Derugin, V. V., Silveira, J. G., Golet, G. H., & LeBuhn, G. (2016). Response of medium- and large-sized terrestrial fauna to corridor restoration along the middle Sacramento River. _Restoration Ecology_, _24_(1), 128-136. <https://doi.org/10.1111/rec.12286>
 
-The final step is to provide supporting documents for future users to implement the connectivity map. This can include data for agencies to create priorities, information on focal species, and communication strategies to explain the map.  
+The study observes species richness at remnant, old restoration (prior to 2000) and young restoration (after 2003) habitat segments along the Sacramento River using trail cameras over two years. The young restoration sites had the highest species richness of predator species and equal richness for other species of interest. As a result, the authors conclude that restoration effects are observed rapidly, and heterogenous landscapes are important for supporting predator species.
 
-Relevance to my research interest 
+**Relation to my research interest**
 
-The steps describe an easy to follow framework for developing connectivity maps. Together with models predicting necessary movements due to change, areas that facilitate this movement can be prioritized for protection. 
+While linear riparian restoration is important. It is equally important to restore natural stream processes that allow meandering and flooding to increase the heterogeneity of riparian forest age and connect remnant forests with young restored or natural sites.
 
- 
+Gillespie, L. E., Ruffley, M., & Exposito-Alonso, M. (2024). Deep learning models map rapid plant species changes from citizen science and remote sensing data. _Proceedings of the National Academy of Sciences_, _121_(37), e2318296121. <https://doi.org/10.1073/pnas.2318296121>
 
-Derugin, V. V., Silveira, J. G., Golet, G. H., & LeBuhn, G. (2016). Response of medium- and large-sized terrestrial fauna to corridor restoration along the middle Sacramento River. Restoration Ecology, 24(1), 128–136. https://doi.org/10.1111/rec.12286 
+In this study, the authors introduce a new species distribution model (SDM), _Deepbiosphere_. The model is localized to California and combines _iNaturalist_ citizen science species observations (n>650,000) with National Agricultural Imagery Program (NAIP) imagery (RGB+I, 1x1m resolution) in a convoluted neural network (CNN), _TResNet_ (Ridnek et al., 2021). Genetically and spatially related species observations are grouped to improve accuracy for under observed species, and the model is passed through a climate data filter using WorldClim's Bioclim variables. _Deepbiosphere_ more accurately predicted species occurrences than _TResNet_ or _Bioclim_ networks on their own, and outcompeted common SDMs (Inception V3, Maxent, Random Forest).
 
- 
+The model was tested in several scenarios. The first observed patterns of old growth and second growth forest in Redwoods National Park and compared remote sensing classification to human annotation of remotely sensed imagery. Human annotators very accurately identified old growth redwood stands, but _Deepbiosphere_ was able to additionally identify second growth redwood forests that annotators missed. The authors also explored modeling understory species (_Oxalis oregana & Rubus ursinus_) associated with these two redwood age classes, finding that _Oxalis_ preferred mature stands and _Rubus_ preferred young stands.
 
-The study observes species richness at remnant, old restoration (prior to 2000) and young restoration (after 2003) habitat segments along the Sacramento River using trail cameras over two years. The young restoration sites had the highest species richness of predator species and equal richness for other species of interest. As a result, the authors conclude that restoration effects are observed rapidly, and heterogenous landscapes are important for supporting predator species. 
+**Relation to my research interest**
 
-Relation to my research interest 
+This study presents a tremendous tool for managing species distribution change over time. Citizen science data has tremendous potential for modeling species distribution, especially in a "a species-rich and data-dense state with abundant high-quality remote sensing imagery" (Gillespie et al., 2024, p. 1) as the authors describe California. The method is very accurate and has excellent resolution due to the use of NAIP imagery. It is potentially limited by the fact that the model was only trained in California, NAIP imagery is constrained to the contiguous United States (CONUS), and it is constrained temporally because NAIP data is collected biannually (annually in some states). It would be interesting to see if a similar framework using lower spatial resolution but greater coverage and temporal resolution, such as Sentinel-2 data would be plausible (_Sentinel-2 - Documentation_, n.d.).
 
-While linear riparian restoration is important. It is equally important to restore natural stream processes that allow meandering and flooding to increase the heterogeneity of riparian forest age and connect remnant forests with young restored or natural sites. 
+T. Ridnik et al., "Tresnet: High performance gpu-dedicated architecture" in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, R. Farrell et al., Eds. (Institute of Electrical and Electronics Engineers, New York, NY, 2021), pp. 1400-1409.
 
- 
+Sentinel-2 - Documentation. (n.d.). Retrieved March 2, 2026, from <https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html>
 
- 
+Gregory, A., Spence, E., Beier, P., & Garding, E. (2021). Toward Best Management Practices for Ecological Corridors. _Land_, _10_(2), 140. <https://doi.org/10.3390/land10020140>
 
-Gillespie, L. E., Ruffley, M., & Exposito-Alonso, M. (2024). Deep learning models map rapid plant species changes from citizen science and remote sensing data. Proceedings of the National Academy of Sciences, 121(37), e2318296121. https://doi.org/10.1073/pnas.2318296121 
+Howard, J. K., Barnett, A. R., Fesenmyer, K. A., & Anderson, M. G. (2025). From fragmentation to resilience: Connectivity and habitat diversity as drivers of fish persistence in California watersheds. _PLoS One_, _20_(12), NaN-NaN. <https://doi.org/10.1371/journal.pone.0339212>
 
- 
+This study focuses on the impact of linear fragmentation of streams on habitat quality, habitat diversity, and fish community changes. Fragmentation was measured by dividing National Hydrography Dataset (NHD) stream reaches into "Functionally Connected Networks" (FCNs). Stream reaches were broken into FCNs at natural (waterfalls) and anthropogenic (dams) barriers. The analysis found FCNs increased from 2,711 historical networks to 4,321 current networks and diversity declined significantly in all areas of California.
 
-In this study, the authors introduce a new species distribution model (SDM), Deepbiosphere. The model is localized to California and combines iNaturalist citizen science species observations (n>650,000) with National Agricultural Imagery Program (NAIP) imagery (RGB+I, 1x1m resolution) in a convoluted neural network (CNN), TResNet (Ridnek et al., 2021). Genetically and spatially related species observations are grouped to improve accuracy for under observed species, and the model is passed through a climate data filter using WorldClim’s Bioclim variables. Deepbiosphere more accurately predicted species occurrences than TResNet or Bioclim networks on their own, and outcompeted common SDMs (Inception V3, Maxent, Random Forest).  
+The study found that streams that with limited damming in the San Joaquin valley also showed habitat degradation, potentially related to water quality impacts and channelization of streams when they are replaced with canals.
 
-The model was tested in several scenarios. The first observed patterns of old growth and second growth forest in Redwoods National Park and compared remote sensing classification to human annotation of remotely sensed imagery. Human annotators very accurately identified old growth redwood stands, but Deepbiosphere was able to additionally identify second growth redwood forests that annotators missed. The authors also explored modeling understory species (Oxalis oregana & Rubus ursinus) associated with these two redwood age classes, finding that Oxalis preferred mature stands and Rubus preferred young stands.  
+REL
 
-Relation to my research interest 
+The method described in this study produces detailed quantification of the degree and effect of fragmentation. This method is made possible by historic fish count data as well as the relative simplicity of linear features and clear distinction between dammed and free streams compared to fragmented terrestrial areas where barriers take the form of a spectrum of permeability.
 
-This study presents a tremendous tool for managing species distribution change over time. Citizen science data has tremendous potential for modeling species distribution, especially in a “a species-rich and data-dense state with abundant high-quality remote sensing imagery” (Gillespie et al., 2024, p. 1) as the authors describe California. The method is very accurate and has excellent resolution due to the use of NAIP imagery. It is potentially limited by the fact that the model was only trained in California, NAIP imagery is constrained to the contiguous United States (CONUS), and it is constrained temporally because NAIP data is collected biannually (annually in some states). It would be interesting to see if a similar framework using lower spatial resolution but greater coverage and temporal resolution, such as Sentinel-2 data would be plausible (Sentinel-2 – Documentation, n.d.). 
+Huang, S., Ramirez, C., Kennedy, K., Mallory, J., Wang, J., & Chu, C. (2017). Updating land cover automatically based on change detection using satellite images: Case study of national forests in Southern California. _GIScience & Remote Sensing_, _54_(4), 495-514. <https://doi.org/10.1080/15481603.2017.1286727>
 
-T. Ridnik et al., “Tresnet: High performance gpu-dedicated architecture” in Proceedings of the  IEEE/CVF Winter Conference on Applications of Computer Vision, R. Farrell et al., Eds. (Institute of Electrical and Electronics Engineers, New York, NY, 2021), pp. 1400–1409. 
+HERE
 
-Sentinel-2 – Documentation. (n.d.). Retrieved March 2, 2026, from https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html 
+Iverson, A. R., Humple, D. L., Cormier, R. L., & Hull, J. (2023). Land cover and NDVI are important predictors in habitat selection along migration for the Golden-crowned Sparrow, a temperate-zone migrating songbird. _Movement Ecology_, _11_(1), 2. <https://doi.org/10.1186/s40462-022-00353-2>
 
- 
+In this study, authors used small GPS devices to study fine scale movements of short-bout migrating passerine birds. Objectives of the study were to measure chosen stopover locations using NDVI (MODIS/Terra Vegetation Indices 16-Day L3 Global 1km resolution), North American Land Change Monitoring System (NALCMS, 30 m resolution), and climactic characteristics. Migration length and duration was described by GPS recordings every other day during migration and every 13<sup>th</sup> day during the breeding season when the locations changed less to conserve battery life on the very small GPS trackers. Sensitivity analysis was conducted to test chosen habitat to random habitat pixels near the migration route.
 
-Gregory, A., Spence, E., Beier, P., & Garding, E. (2021). Toward Best Management Practices for Ecological Corridors. Land, 10(2), 140. https://doi.org/10.3390/land10020140 
+The study found that NDVI was positively correlated with habitat selection when shrubland and needleleaf forest land classifications were excluded, but negatively correlated with these two habitat types. Shrubland was the most selected stop along the migration route, needleleaf forest was the second most selected and the most common among random points near the migration route. This indicated that needleaf forest was common, but only selected for in certain scenarios. Both shrubland and needleaf forest have a broad range of allowed cover in the NALCMS (20-100% woody cover). Grasslands were also commonly chosen for stopover sites, particularly in Fall.
 
- 
+**Relevance to my research interest**
 
-Howard, J. K., Barnett, A. R., Fesenmyer, K. A., & Anderson, M. G. (2025). From fragmentation to resilience: Connectivity and habitat diversity as drivers of fish persistence in California watersheds. PLoS One, 20(12), NaN-NaN. https://doi.org/10.1371/journal.pone.0339212 
+As this study indicates, land classification alone is not always a clear indicator of habitat selection. The negative correlation between NDVI level relative selection strength on shrubland and needleleaf land classes indicates that relatively more open shrublands and forests are selected for. Reclassifying land uses into more specific categories using NDVI or other remote sensing methods may be useful for better understanding habitat selection. Higher resolution NDVI and GPS collection may be an option for future studies and may help gain more insight into specific route selection, especially in a longer study period.
 
-This study focuses on the impact of linear fragmentation of streams on habitat quality, habitat diversity, and fish community changes. Fragmentation was measured by dividing National Hydrography Dataset (NHD) stream reaches into “Functionally Connected Networks” (FCNs). Stream reaches were broken into FCNs at natural (waterfalls) and anthropogenic (dams) barriers. The analysis found FCNs increased from 2,711 historical networks to 4,321 current networks and diversity declined significantly in all areas of California.  
+Kimball, S., Goulden, M. L., Suding, K. N., & Parker, S. (2014). Altered water and nitrogen input shifts succession in a southern California coastal sage community. _Ecological Applications_, _24_(6), 1390-1404. <https://doi.org/10.1890/13-1313.1>
 
-The study found that streams that with limited damming in the San Joaquin valley also showed habitat degradation, potentially related to water quality impacts and channelization of streams when they are replaced with canals. 
+This paper compared water additions and reductions, nitrogen inputs, on the succession process following fire in coastal sage scrub (CSS). The study found that nitrogen inputs significantly increased the length of time the plant community had high grass cover following fire, before returning to coastal sage scrub. Inputs of nitrogen to mature CSS stands has not been found to produce change in plant cover, so the authors conclude that transition from shrub cover to annual grass cover is a factor of both disturbance and nitrogen input.
 
-REL 
+REL
 
-The method described in this study produces detailed quantification of the degree and effect of fragmentation. This method is made possible by historic fish count data as well as the relative simplicity of linear features and clear distinction between dammed and free streams compared to fragmented terrestrial areas where barriers take the form of a spectrum of permeability.  
+Nitrogen pollution distribution is concentrated around urban areas and roadways, which are also common sources of wildfire ignition. The study indicates that coastal sage scrub near urban areas may be particularly at risk for type conversion due to these factors.
 
-Huang, S., Ramirez, C., Kennedy, K., Mallory, J., Wang, J., & Chu, C. (2017). Updating land cover automatically based on change detection using satellite images: Case study of national forests in Southern California. GIScience & Remote Sensing, 54(4), 495–514. https://doi.org/10.1080/15481603.2017.1286727 
+Lambrinos, J. G. (2006). Spatially variable propagule pressure and herbivory influence invasion of chaparral shrubland by an exotic grass. _Oecologia_, _147_(2), 327-334. <https://doi.org/10.1007/s00442-005-0259-1>
 
-HERE 
+This paper studied the relationship of rabbit herbivory on resistance to invasive grasses in coastal chaparral. By planting protected and protected invasive seedlings at increasing distances into a chapparal stand, the researcher found that herbivory successfully deterred invasive seedling establishment. Additionally, they studied seed dispersal and observed that chaparral cover physically reduced wind dispersal.
 
-Iverson, A. R., Humple, D. L., Cormier, R. L., & Hull, J. (2023). Land cover and NDVI are important predictors in habitat selection along migration for the Golden-crowned Sparrow, a temperate-zone migrating songbird. Movement Ecology, 11(1), 2. https://doi.org/10.1186/s40462-022-00353-2 
+REL
 
-In this study, authors used small GPS devices to study fine scale movements of short-bout migrating passerine birds. Objectives of the study were to measure chosen stopover locations using NDVI (MODIS/Terra Vegetation Indices 16-Day L3 Global 1km resolution), North American Land Change Monitoring System (NALCMS, 30 m resolution), and climactic characteristics. Migration length and duration was described by GPS recordings every other day during migration and every 13th day during the breeding season when the locations changed less to conserve battery life on the very small GPS trackers. Sensitivity analysis was conducted to test chosen habitat to random habitat pixels near the migration route. 
+Invasive species are commonly found at habitat edges where resident herbivores are unwilling to leave protected cover to browse. Fragmentation from roads increases perimeter of habitat, even if the relative area reductions are not large. As a result, edge effects are important to study and manage as areas of increased invasive species pressure.
 
-The study found that NDVI was positively correlated with habitat selection when shrubland and needleleaf forest land classifications were excluded, but negatively correlated with these two habitat types. Shrubland was the most selected stop along the migration route, needleleaf forest was the second most selected and the most common among random points near the migration route. This indicated that needleaf forest was common, but only selected for in certain scenarios. Both shrubland and needleaf forest have a broad range of allowed cover in the NALCMS (20-100% woody cover). Grasslands were also commonly chosen for stopover sites, particularly in Fall. 
+Lawson, D. M., Regan, H. M., Zedler, P. H., & Franklin, J. (2010). Cumulative effects of land use, altered fire regime and climate change on persistence of Ceanothus verrucosus, a rare, fire-dependent plant species. _Global Change Biology_, _16_(9), 2518-2529. <https://doi.org/10.1111/j.1365-2486.2009.02143.x>
 
-Relevance to my research interest 
+The study focuses on a uniquely vulnerable plant species whose US range is limited to urban and near urban San Diego county, under threat from climate change, and unable to disperse from occupied sites to suitable, unoccupied habitats due to fragmentation and seed dispersal methods. The authors inventoried existing species populations through field data and aerial photography. Based on this baseline, they estimated future populations under warm-dry and warm-wet future climate trends and found that climate impacts more of a threat to the species than further fragmentation and shortened fire regimes.
 
-As this study indicates, land classification alone is not always a clear indicator of habitat selection. The negative correlation between NDVI level relative selection strength on shrubland and needleleaf land classes indicates that relatively more open shrublands and forests are selected for. Reclassifying land uses into more specific categories using NDVI or other remote sensing methods may be useful for better understanding habitat selection. Higher resolution NDVI and GPS collection may be an option for future studies and may help gain more insight into specific route selection, especially in a longer study period. 
+REL
 
-Kimball, S., Goulden, M. L., Suding, K. N., & Parker, S. (2014). Altered water and nitrogen input shifts succession in a southern California coastal sage community. Ecological Applications, 24(6), 1390–1404. https://doi.org/10.1890/13-1313.1 
+Ideal habitat for species will move spatially due to climate change effects, but some species, such as C. verrucosus, are not able to distribute to available habitat because of severe fragmentation. Highly fragmented species are unable to recolonize an area by seed after the resident population is eliminated due to drought or fire. The current distribution of species may overestimate the persistence of a population at a site if it is fragmented from nearby seed sources.
 
-This paper compared water additions and reductions, nitrogen inputs, on the succession process following fire in coastal sage scrub (CSS). The study found that nitrogen inputs significantly increased the length of time the plant community had high grass cover following fire, before returning to coastal sage scrub. Inputs of nitrogen to mature CSS stands has not been found to produce change in plant cover, so the authors conclude that transition from shrub cover to annual grass cover is a factor of both disturbance and nitrogen input. 
+McIntyre, P. J., Thorne, J. H., Dolanc, C. R., Flint, A. L., Flint, L. E., Kelly, M., & Ackerly, D. D. (2015). Twentieth-century shifts in forest structure in California: Denser forests, smaller trees, and increased dominance of oaks. _Proceedings of the National Academy of Sciences_, _112_(5), 1458-1463. <https://doi.org/10.1073/pnas.1410186112>
 
-REL 
+This study discusses effects of climactic water deficit on forest density and overall biomass in California. The comparison was completed using Vegetaion Type Map (VTM) data from the mid 20<sup>th</sup> century with Forest Inventory Analysis (FIA) data from the early 2000s, creating a 10 arc-minute raster of tree density and basal area change, and comparing to climactic water deficit. Presented results indicate that tree density has increased, but canopy height and biomass have decreased.
 
-Nitrogen pollution distribution is concentrated around urban areas and roadways, which are also common sources of wildfire ignition. The study indicates that coastal sage scrub near urban areas may be particularly at risk for type conversion due to these factors. 
+**REL**
 
-Lambrinos, J. G. (2006). Spatially variable propagule pressure and herbivory influence invasion of chaparral shrubland by an exotic grass. Oecologia, 147(2), 327–334. https://doi.org/10.1007/s00442-005-0259-1 
+As the study discusses, plant community changes in response to climate change are not always indicated by a change in dominant species. Structural changes, such as those observed in tree density and basal areas may not be captured by land classification, but impact ecological services nonetheless.
 
-This paper studied the relationship of rabbit herbivory on resistance to invasive grasses in coastal chaparral. By planting protected and protected invasive seedlings at increasing distances into a chapparal stand, the researcher found that herbivory successfully deterred invasive seedling establishment. Additionally, they studied seed dispersal and observed that chaparral cover physically reduced wind dispersal. 
+Park, I. W., Hooper, J., Flegal, J. M., & Jenerette, G. D. (2018). Impacts of climate, disturbance and topography on distribution of herbaceous cover in Southern California chaparral: Insights from a remote-sensing method. _Diversity and Distributions_, _24_(4), 497-508. <https://doi.org/10.1111/ddi.12693>
 
-REL 
+In this study, the authors use LandSAT derived NDVI to identify distribution herbaceous cover in historically chapparal dominated landscapes in the Angeles National Forest (ANF). Native and invasive/naturalized herbaceous cover are grouped compared to herbaceous cover. The authors selected pixels classified as shrublands by National Land Cover Database (NLCD). They excluded pixels outside of typical chapparal elevation bands, precipitation ranges, and those that intersected fire perimeters in the previous 20 years because chapparal vegetation may be returning but not distinguishable. The remaining study area covered 858 km^2, or 32% of ANF.
 
-Invasive species are commonly found at habitat edges where resident herbivores are unwilling to leave protected cover to browse. Fragmentation from roads increases perimeter of habitat, even if the relative area reductions are not large. As a result, edge effects are important to study and manage as areas of increased invasive species pressure. 
+The study found that remotely sensed data accurately predicted herbaceous cover compared to field methods. The biggest predictor of herbaceous cover was precipitation (negative correlation), but herbaceous cover is also correlated with proximity to forest boundaries, roads, and other urban land uses. The authors only considered paved roads, citing lack of high-resolution data of unpaved roads that dissect National Forests. Because the study eliminated areas burned within the last 20 years, impacts of increased fire intervals on herbaceous cover were not fully studied.
 
-Lawson, D. M., Regan, H. M., Zedler, P. H., & Franklin, J. (2010). Cumulative effects of land use, altered fire regime and climate change on persistence of Ceanothus verrucosus, a rare, fire-dependent plant species. Global Change Biology, 16(9), 2518–2529. https://doi.org/10.1111/j.1365-2486.2009.02143.x 
+**Relation to my research interest**
 
-The study focuses on a uniquely vulnerable plant species whose US range is limited to urban and near urban San Diego county, under threat from climate change, and unable to disperse from occupied sites to suitable, unoccupied habitats due to fragmentation and seed dispersal methods. The authors inventoried existing species populations through field data and aerial photography. Based on this baseline, they estimated future populations under warm-dry and warm-wet future climate trends and found that climate impacts more of a threat to the species than further fragmentation and shortened fire regimes.  
+This study provided an overview for predicting herbaceous cover under current conditions. The method presented here can be refined to model potential invasions into chapparal dominated landscapes in the future. As noted in the study, roads and land use boundaries are major sources of invasion and disturbance in the form of increased fire regimes. Further study could include unpaved roads which are common throughout ANF, and other chapparal dominated forests in California. Additionally, it would be interesting to differentiate between native and invasive herbaceous cover and test this model using higher resolution NAIP data.
 
-REL 
+Rissman, A., & Merenlender, A. (2008). Ecology and Society: The Conservation Contributions of Conservation Easements: Analysis of the San Francisco Bay Area Protected Lands Spatial Database. _Ecology and Society_, _13_(1). <https://doi.org/10.5751/ES-02329-130140>
 
-Ideal habitat for species will move spatially due to climate change effects, but some species, such as C. verrucosus, are not able to distribute to available habitat because of severe fragmentation. Highly fragmented species are unable to recolonize an area by seed after the resident population is eliminated due to drought or fire. The current distribution of species may overestimate the persistence of a population at a site if it is fragmented from nearby seed sources. 
+This study compares the spatial distribution and characteristics of conservation easements and "fee-simple properties". Conservation easements allow landowners to retain some control over land, while prohibiting development and may dictate management goals of the property, depending on the easement. Fee-simple properties are protected areas owned by state, federal, or non-governmental organizations. The study compared land cover from the Fire and Resource Assessment Program (FRAP, 100 m), 30 m DEM, Census, and categorization data from local land use plans. The analysis found that both property types had steeper slopes than non-protected areas, but conservation easements were on flatter slopes than fee simple areas. Overall, connectivity both within and between land use types was high, reflecting selection criteria for connected lands and concentration of undeveloped land.
 
- 
+REL
 
-McIntyre, P. J., Thorne, J. H., Dolanc, C. R., Flint, A. L., Flint, L. E., Kelly, M., & Ackerly, D. D. (2015). Twentieth-century shifts in forest structure in California: Denser forests, smaller trees, and increased dominance of oaks. Proceedings of the National Academy of Sciences, 112(5), 1458–1463. https://doi.org/10.1073/pnas.1410186112 
+Conservation easements provide a crucial steppingstone between more traditional publicly owned protected areas and contain distinct vegetation types. As they are more likely to be developable land, the land that conservation easements cover are more at risk to land use conversion. Managing conservation easements to properly benefit connectivity while maintaining agricultural productivity is a challenge, but reduced price compared to purchasing protected and reduced management from agencies make them a key piece in connecting landscapes. The connectiveness assessment in this study could be used to identify areas of priority for future conservation easement or conservation planning. As in other studies, higher resolution data for determining land cover would be useful for a more accurate assessment of vegetation represented.
 
-This study discusses effects of climactic water deficit on forest density and overall biomass in California. The comparison was completed using Vegetaion Type Map (VTM) data from the mid 20th century with Forest Inventory Analysis (FIA) data from the early 2000s, creating a 10 arc-minute raster of tree density and basal area change, and comparing to climactic water deficit. Presented results indicate that tree density has increased, but canopy height and biomass have decreased. 
+Stemle, L. R., Laabs, D., & Searcy, C. A. (2025). Land use change, fragmentation, and sea level rise create escalating viability concerns for an imperiled salamander. _Ecosphere_, _16_(5), e70284. <https://doi.org/10.1002/ecs2.70284>
 
-REL 
+This study studied the migration of Santa Cruz Long Toed Salamander (SCLTS) from breeding ponds to upland, the barriers to successful habitat connection, and future climate impacts on extant ponds. The purpose of the study was to find breeding ponds with adequate and accessible habitat which could be used for release of captive-bred salamanders and identify imperiled ponds to be the target of restoration or mitigation. The authors defined ponds using satellite imagery, created buffers based off of migration distance to contain 50% and 95% of the SCLTS, and created barriers at any road with >1000 average daily traffic. Proportion of habitat in the resulting buffers was calculated using NLCD data. The authors conclude that only 24% of breeding ponds are likely to support SCLTS long-term.
 
-As the study discusses, plant community changes in response to climate change are not always indicated by a change in dominant species. Structural changes, such as those observed in tree density and basal areas may not be captured by land classification, but impact ecological services nonetheless. 
+**REL**
 
-Park, I. W., Hooper, J., Flegal, J. M., & Jenerette, G. D. (2018). Impacts of climate, disturbance and topography on distribution of herbaceous cover in Southern California chaparral: Insights from a remote-sensing method. Diversity and Distributions, 24(4), 497–508. https://doi.org/10.1111/ddi.12693 
+The study found that many ponds had suitable habitat within the buffer area, but that it was not accessible due to road barriers. Barriers to upland habitat were a greater limitation for northern ponds than southern ponds which are mostly limited by land use. The most beneficial methods to defragment the landscape such as upland restoration or road mitigation vary spatially.
 
- 
+Forest land cover was classified as habitat, but the authors note that NLCD does not differentiate between native dominated and invasive forests, and invasive dominated forests in the study do not provide good habitat for SCLTS. Study of accessible habitat would benefit from remote sensed vegetation data or a different land classification dataset to differentiate between forest types.
 
-In this study, the authors use LandSAT derived NDVI to identify distribution herbaceous cover in historically chapparal dominated landscapes in the Angeles National Forest (ANF). Native and invasive/naturalized herbaceous cover are grouped compared to herbaceous cover. The authors selected pixels classified as shrublands by National Land Cover Database (NLCD). They excluded pixels outside of typical chapparal elevation bands, precipitation ranges, and those that intersected fire perimeters in the previous 20 years because chapparal vegetation may be returning but not distinguishable. The remaining study area covered 858 km^2, or 32% of ANF. 
+The study shows that habitat fragmentation has a slow, serious effect on species populations, but there is an opportunity to defragment the landscape before the new equilibrium population is
 
-The study found that remotely sensed data accurately predicted herbaceous cover compared to field methods. The biggest predictor of herbaceous cover was precipitation (negative correlation), but herbaceous cover is also correlated with proximity to forest boundaries, roads, and other urban land uses. The authors only considered paved roads, citing lack of high-resolution data of unpaved roads that dissect National Forests. Because the study eliminated areas burned within the last 20 years, impacts of increased fire intervals on herbaceous cover were not fully studied. 
+Syphard, A. D., Regan, H. M., Franklin, J., Swab, R. M., & Bonebrake, T. C. (2013). Does functional type vulnerability to multiple threats depend on spatial context in Mediterranean-climate regions? _Diversity and Distributions_, _19_(10), 1263-1274. <https://doi.org/10.1111/ddi.12076>
 
-Relation to my research interest 
+This study discusses asks whether grouping species by functional traits such as life history and response to disturbance can help assess global change impacts. While grouping species by functional traits may be useful for climate change related impacts, spatial variation of land use changes may have a more immediate effect on species distribution. The authors combine the effects of altered fire regime, climate change, and land use changes on two functionally similar but geographically distinct Ceanothus species. C. verrucosus gains territory under warm & wet climate model, when land use is not considered . Both species show reduction in projected abundance if fire return interval is shorter than 10-20 years. The study shows that while functional groups are useful when projecting climate change impacts to a species, climate change is not the only impact to future population distribution. Geography and land use conflicts must be considered as well. In incredibly short fire return intervals, decline is dramatic for any scenario.
 
-This study provided an overview for predicting herbaceous cover under current conditions. The method presented here can be refined to model potential invasions into chapparal dominated landscapes in the future. As noted in the study, roads and land use boundaries are major sources of invasion and disturbance in the form of increased fire regimes. Further study could include unpaved roads which are common throughout ANF, and other chapparal dominated forests in California. Additionally, it would be interesting to differentiate between native and invasive herbaceous cover and test this model using higher resolution NAIP data. 
+**REL**
 
- 
-
-Rissman, A., & Merenlender, A. (2008). Ecology and Society: The Conservation Contributions of Conservation Easements: Analysis of the San Francisco Bay Area Protected Lands Spatial Database. Ecology and Society, 13(1). https://doi.org/10.5751/ES-02329-130140 
-
-This study compares the spatial distribution and characteristics of conservation easements and “fee-simple properties”. Conservation easements allow landowners to retain some control over land, while prohibiting development and may dictate management goals of the property, depending on the easement. Fee-simple properties are protected areas owned by state, federal, or non-governmental organizations. The study compared land cover from the Fire and Resource Assessment Program (FRAP, 100 m), 30 m DEM, Census, and categorization data from local land use plans. The analysis found that both property types had steeper slopes than non-protected areas, but conservation easements were on flatter slopes than fee simple areas. Overall, connectivity both within and between land use types was high, reflecting selection criteria for connected lands and concentration of undeveloped land. 
-
-REL 
-
-Conservation easements provide a crucial steppingstone between more traditional publicly owned protected areas and contain distinct vegetation types. As they are more likely to be developable land, the land that conservation easements cover are more at risk to land use conversion. Managing conservation easements to properly benefit connectivity while maintaining agricultural productivity is a challenge, but reduced price compared to purchasing protected and reduced management from agencies make them a key piece in connecting landscapes. The connectiveness assessment in this study could be used to identify areas of priority for future conservation easement or conservation planning. As in other studies, higher resolution data for determining land cover would be useful for a more accurate assessment of vegetation represented. 
-
- 
-
-Stemle, L. R., Laabs, D., & Searcy, C. A. (2025). Land use change, fragmentation, and sea level rise create escalating viability concerns for an imperiled salamander. Ecosphere, 16(5), e70284. https://doi.org/10.1002/ecs2.70284 
-
-This study studied the migration of Santa Cruz Long Toed Salamander (SCLTS) from breeding ponds to upland, the barriers to successful habitat connection, and future climate impacts on extant ponds. The purpose of the study was to find breeding ponds with adequate and accessible habitat which could be used for release of captive-bred salamanders and identify imperiled ponds to be the target of restoration or mitigation. The authors defined ponds using satellite imagery, created buffers based off of migration distance to contain 50% and 95% of the SCLTS, and created barriers at any road with >1000 average daily traffic. Proportion of habitat in the resulting buffers was calculated using NLCD data. The authors conclude that only 24% of breeding ponds are likely to support SCLTS long-term. 
-
- 
-
-REL 
-
-The study found that many ponds had suitable habitat within the buffer area, but that it was not accessible due to road barriers. Barriers to upland habitat were a greater limitation for northern ponds than southern ponds which are mostly limited by land use. The most beneficial methods to defragment the landscape such as upland restoration or road mitigation vary spatially. 
-
-Forest land cover was classified as habitat, but the authors note that NLCD does not differentiate between native dominated and invasive forests, and invasive dominated forests in the study do not provide good habitat for SCLTS. Study of accessible habitat would benefit from remote sensed vegetation data or a different land classification dataset to differentiate between forest types. 
-
-The study shows that habitat fragmentation has a slow, serious effect on species populations, but there is an opportunity to defragment the landscape before the new equilibrium population is  
-
-Syphard, A. D., Regan, H. M., Franklin, J., Swab, R. M., & Bonebrake, T. C. (2013). Does functional type vulnerability to multiple threats depend on spatial context in Mediterranean-climate regions? Diversity and Distributions, 19(10), 1263–1274. https://doi.org/10.1111/ddi.12076 
-
- 
-
-This study discusses asks whether grouping species by functional traits such as life history and response to disturbance can help assess global change impacts. While grouping species by functional traits may be useful for climate change related impacts, spatial variation of land use changes may have a more immediate effect on species distribution. The authors combine the effects of altered fire regime, climate change, and land use changes on two functionally similar but geographically distinct Ceanothus species.   C. verrucosus gains territory under warm & wet climate model, when land use is not considered	. Both species show reduction in projected abundance if fire return interval is shorter than 10-20 years. The study shows that while functional groups are useful when projecting climate change impacts to a species, climate change is not the only impact to future population distribution. Geography and land use conflicts must be considered as well. In incredibly short fire return intervals, decline is dramatic for any scenario.  
-
-REL 
-
-Fire return intervals are likely a product of climate models and geography itself. As the authors note, fire in Southern California is more frequent in medium population and urban density areas. There are many complex processes interacting in model: urban growth and makeup related to fire frequency, multiple climate models, unclear future development trends. Threats themselves are spatially distributed and will not impact species uniformly (fire intervals) “it may be useful to consider the distribution of vulnerable species in relation to land-use change, areas of ‘high-velocity’ climate shifts (Loarie et al., 2009) and places where altered fire regimes are likely to interact with other threats.” (Syphard et al., 2013, p. 1272) 
-
- 
-
- 
+Fire return intervals are likely a product of climate models and geography itself. As the authors note, fire in Southern California is more frequent in medium population and urban density areas. There are many complex processes interacting in model: urban growth and makeup related to fire frequency, multiple climate models, unclear future development trends. Threats themselves are spatially distributed and will not impact species uniformly (fire intervals) "it may be useful to consider the distribution of vulnerable species in relation to land-use change, areas of 'high-velocity' climate shifts (Loarie et al., 2009) and places where altered fire regimes are likely to interact with other threats." (Syphard et al., 2013, p. 1272)
