@@ -10,7 +10,7 @@ author_profile: FALSE
 ## Heading
 
 <div align="center">
-  <img src="..." height="100" />
+  <img src="assets/images/Jacob.jpg" height="100" />
 
 </div>
 
