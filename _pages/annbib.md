@@ -9,10 +9,7 @@ author_profile: FALSE
 
 ## Heading
 
-<div align="center">
-  <img src="jakedxn3.github.io/assets/images/Jacob.jpg" height="100" />
-
-</div>
+[test](https://jakedxn3.github.io/assets/images/Jacob.jpg)
 
 - bullet
 - list
