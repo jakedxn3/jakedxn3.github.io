@@ -9,7 +9,7 @@ author_profile: FALSE
 
 ## Heading
 
-[test](https://jakedxn3.github.io/assets/images/Jacob.jpg)
+![test](https://jakedxn3.github.io/assets/images/Jacob.jpg)
 
 - bullet
 - list
