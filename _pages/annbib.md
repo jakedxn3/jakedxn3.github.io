@@ -6,6 +6,20 @@ permalink: /projects/AnnBib/
 author_profile: FALSE
 
 ---
+
+## Heading
+
+<div align="center">
+  <img src="..." height="100" />
+
+</div>
+
+- bullet
+- list
+- in
+- markdown
+
+
 # Habitat fragmentation in California: Impacts of land use, climate change, and invasive species
 
 # Annotated Bibliography
