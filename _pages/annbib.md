@@ -10,7 +10,7 @@ author_profile: FALSE
 ## Heading
 
 <div align="center">
-  <img src="[test](https://jakedxn3.github.io/assets/images/Jacob.jpg)" height="100" />
+  <img src=test](https://jakedxn3.github.io/assets/images/Jacob.jpg) height="100" />
 
 </div>
 
