@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and class project site for Jacob Dixon.
 twitter_username: username
 github_username: jakedxn3
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
