@@ -6,7 +6,7 @@ permalink: /projects/AnnBib/
 author_profile: FALSE
 classes:
   - wide
-  - sunrise
+skin: sunrise
 
 ---
 
