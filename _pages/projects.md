@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "projects"
+title: "Projects"
 sitemap: false
 permalink: /projects/
 author_profile: FALSE
 
 ---
 
-# Projects
-
+# Coursework
 - [GEOG 560 Annotated Bibliography](https://www.jacob-dixon.com/projects/AnnBib/)
   
