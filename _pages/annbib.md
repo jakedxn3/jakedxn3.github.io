@@ -38,7 +38,7 @@ toc: true
   <p style="line-height: 2; margin-left: 2em;">
   In this study, authors selected two each of oak, ceanothus, and pine species to evaluate their vulnerability to climate change based on changes in local carrying capacity, determined by amount of suitable habitat. Habitat distribution was measured from CDFW baseline data projected into the future to 2085 with two climate models and two emissions models. Demographic models for each species were implemented from previous studies based on metrics of survival, reproduction, and local seed or vegetal dispersal. Both the distribution and the [JD3.1]demographic models were combined in a simulation which predicted relative abundance of the 6 selected species across California over time. To answer the research question, demographic models for every species were applied to the distribution model for each species.
 Authors concluded that all 6 species would ultimately decline in the study's timeframe due to climate and land use change; however, it was also concluded that the difference between each species’ demography was a significant factor for determining relative abundance in local populations of each species. 
-<b>Relation to my research interest</b>
+<h4>Relation to my research interest</h4>
 This study shows a method to integrate two separate processes: the change of habitats spatially over time, and the ability for species populations to successfully track those changes. Due to differences in life history and reproductive characteristics, the future distribution of plant populations in relation to proposed species distribution models can vary wildly. This method can be adapted to other species of interest.
 
   </p>
