@@ -30,7 +30,8 @@ Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Scien
 <h3 style="padding-left: 30px; text-indent: -30px;"> 
 Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? <i>Diversity and Distributions</i>, 31(8), e70067. https://doi.org/10.1111/ddi.70067 </h3>
 
-Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. _Conservation Biology_, _25_(5), 879-892. <https://doi.org/10.1111/j.1523-1739.2011.01716.x>
+<h3 style="padding-left: 30px; text-indent: -30px;"> 
+Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. <i>Conservation Biology, 25</i>(5), 879-892. https://doi.org/10.1111/j.1523-1739.2011.01716.x </h3>
 
 Presented is a 7 step process for developing regional connectivity maps based on experience creating state and regional maps for California, and other areas.
 
