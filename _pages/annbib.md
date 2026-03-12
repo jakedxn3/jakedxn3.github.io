@@ -4,9 +4,10 @@ title: "GEOG 560 Annotated Bibliography"
 sitemap: false
 permalink: /projects/AnnBib/
 author_profile: FALSE
-
+classes:
+  - wide
 skin: dark
-toc: true
+toc: FALSE
 
 ---
 
@@ -19,7 +20,7 @@ toc: true
 ### Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
 
 
-<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+<div class="csl-bib-body" style="line-height: 2; margin-left: 2em;">
   
   <h3 style="text-indent:-2em;" id="(Ackerly et al., 2010)">
     Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., &amp; Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, <i>16</i>(3), 476–487. <a href="https://doi.org/10.1111/j.1472-4642.2010.00654.x">https://doi.org/10.1111/j.1472-4642.2010.00654.x</a></h3>
