@@ -34,10 +34,10 @@ Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & R
 Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. <i>Conservation Biology, 25</i>(5), 879-892. https://doi.org/10.1111/j.1523-1739.2011.01716.x </h3>
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
-  <div class="csl-entry">Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., &amp; Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, <i>16</i>(3), 476–487. <a href="https://doi.org/10.1111/j.1472-4642.2010.00654.x">https://doi.org/10.1111/j.1472-4642.2010.00654.x</a></div>
+  <h3>Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., &amp; Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, <i>16</i>(3), 476–487. <a href="https://doi.org/10.1111/j.1472-4642.2010.00654.x">https://doi.org/10.1111/j.1472-4642.2010.00654.x</a></h3>
 
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1472-4642.2010.00654.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20geography%20of%20climate%20change%3A%20implications%20for%20conservation%20biogeography&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=16&amp;rft.issue=3&amp;rft.aufirst=D.%20D.&amp;rft.aulast=Ackerly&amp;rft.au=D.%20D.%20Ackerly&amp;rft.au=S.%20R.%20Loarie&amp;rft.au=W.%20K.%20Cornwell&amp;rft.au=S.%20B.%20Weiss&amp;rft.au=H.%20Hamilton&amp;rft.au=R.%20Branciforte&amp;rft.au=N.%20J.%20B.%20Kraft&amp;rft.date=2010&amp;rft.pages=476-487&amp;rft.spage=476&amp;rft.epage=487&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
-  <p style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <p style="line-height: 2; margin-left: 2em;">
   test test test test
   <br/>
   <b> Relation to my research interest</b>
