@@ -26,7 +26,9 @@ Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Scien
 
 <p style="padding-left: 30px;"> As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by protecting connected areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data is important for accurate management decisions because topo climates (0.01-1 km variations) and microclimates (<10 m variations) as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate (1-100km variations) scale approach. <p/>
 
-Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? _Diversity and Distributions_, _31_(8), e70067. <https://doi.org/10.1111/ddi.70067>
+<h3 style="padding-left: 30px; text-indent: -30px;"> <i> </i></h3>
+<h3 style="padding-left: 30px; text-indent: -30px;"> 
+Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? <i>Diversity and Distributions</i>, 31(8), e70067. https://doi.org/10.1111/ddi.70067 </h3>
 
 Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. _Conservation Biology_, _25_(5), 879-892. <https://doi.org/10.1111/j.1523-1739.2011.01716.x>
 
