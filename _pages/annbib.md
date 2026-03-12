@@ -7,6 +7,7 @@ author_profile: FALSE
 classes:
   - wide
 minimal_mistakes_skin: sunrise
+toc: TRUE
 
 ---
 
@@ -18,13 +19,13 @@ minimal_mistakes_skin: sunrise
 
 # Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
 
-Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., & Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. _Diversity and Distributions_, _16_(3), 476-487. <https://doi.org/10.1111/j.1472-4642.2010.00654.x>
+<h3 style="padding-left: 30px; text-indent: -30px;">Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., & Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. _Diversity and Distributions_, _16_(3), 476-487. https://doi.org/10.1111/j.1472-4642.2010.00654.x </h3>
 
-This study assesses increases, decreases, elimination, and introduction of novel climates in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter). From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log scale across the study area. The authors also visualize areas where directional responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move are greater. The opposite is true for the warmer-wetter scenario. The authors discuss topo climates and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate scale approach.
+<p style="padding-left: 30px;"> This study assesses increases, decreases, elimination, and introduction of novel climates in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter). From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log scale across the study area. The authors also visualize areas where directional responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move are greater. The opposite is true for the warmer-wetter scenario. The authors discuss topo climates and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate scale approach. </p>
 
-**Relevance to my research interest**
+<h4 style="padding-left: 30px;"> Relevance to my research interest**</h4>
 
-As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by protecting connected areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data is important for accurate management decisions because topo climates (0.01-1 km variations) and microclimates (<10 m variations) as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate (1-100km variations) scale approach.
+<p style="padding-left: 30px;"> As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by protecting connected areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data is important for accurate management decisions because topo climates (0.01-1 km variations) and microclimates (<10 m variations) as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate (1-100km variations) scale approach. <p/>
 
 Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? _Diversity and Distributions_, _31_(8), e70067. <https://doi.org/10.1111/ddi.70067>
 
