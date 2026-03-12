@@ -3,7 +3,7 @@ layout: single
 title: "GEOG 560 Annotated Bibliography"
 sitemap: false
 permalink: /projects/AnnBib/
-author_profile: FALSE
+author_profile: TRUE
 classes:
   - wide
 skin: sunrise
