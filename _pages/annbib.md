@@ -3,20 +3,20 @@ layout: single
 title: "GEOG 560 Annotated Bibliography"
 sitemap: false
 permalink: /projects/AnnBib/
-author_profile: TRUE
+author_profile: FALSE
 classes:
   - wide
-skin: sunrise
+skin: dark
 
 ---
 
 
 
- ## Habitat fragmentation in California: Impacts of land use, climate change, and invasive species
+Habitat fragmentation in California: Impacts of land use, climate change, and invasive species
 
- ## Annotated Bibliography
+Annotated Bibliography
 
- ## Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
+Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
 
 <h3 style="padding-left: 30px; text-indent: -30px;">Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., & Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, 16(3), 476–487. https://doi.org/10.1111/j.1472-4642.2010.00654.x </h3>
 
