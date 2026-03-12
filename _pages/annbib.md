@@ -7,31 +7,17 @@ author_profile: FALSE
 classes:
   - wide
 skin: dark
+toc: true
 
 ---
 
 
 
-Habitat fragmentation in California: Impacts of land use, climate change, and invasive species
+# Habitat fragmentation in California: Impacts of land use, climate change, and invasive species
 
-Annotated Bibliography
+## Annotated Bibliography
 
-Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
-
-<h3 style="padding-left: 30px; text-indent: -30px;">Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., & Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, 16(3), 476–487. https://doi.org/10.1111/j.1472-4642.2010.00654.x </h3>
-
-<p style="padding-left: 30px;"> This study assesses increases, decreases, elimination, and introduction of novel climates in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter). From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log scale across the study area. The authors also visualize areas where directional responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move are greater. The opposite is true for the warmer-wetter scenario. The authors discuss topo climates and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate scale approach. </p>
-
-<h4 style="padding-left: 30px;"> <b>Relevance to my research interest</b></h4>
-
-<p style="padding-left: 30px;"> As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by protecting connected areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data is important for accurate management decisions because topo climates (0.01-1 km variations) and microclimates (<10 m variations) as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate (1-100km variations) scale approach. <p/>
-
-<h3 style="padding-left: 30px; text-indent: -30px;"> <i> </i></h3>
-<h3 style="padding-left: 30px; text-indent: -30px;"> 
-Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., & Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? <i>Diversity and Distributions</i>, 31(8), e70067. https://doi.org/10.1111/ddi.70067 </h3>
-
-<h3 style="padding-left: 30px; text-indent: -30px;"> 
-Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. <i>Conservation Biology, 25</i>(5), 879-892. https://doi.org/10.1111/j.1523-1739.2011.01716.x </h3>
+### Compiled for GEOG 560, GIScience I: Introduction to Geographic Information Science (Winter 2026) by Jacob Dixon
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <h3>Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., &amp; Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, <i>16</i>(3), 476–487. <a href="https://doi.org/10.1111/j.1472-4642.2010.00654.x">https://doi.org/10.1111/j.1472-4642.2010.00654.x</a></h3>
@@ -39,7 +25,7 @@ Beier, P., Spencer, W., Baldwin, R. F., & McRAE, B. H. (2011). Toward Best Pract
 <p style="line-height: 2; margin-left: 2em;">
 test test test test
 </p>
-<b> Relation to my research interest</b>
+<h4> Relation to my research interest</h4>
 <p style="line-height: 2; margin-left: 2em;">
 test test test test
 </p>
@@ -49,7 +35,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   test test test test
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   test test test test
   </p>
@@ -59,7 +45,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   test test test test
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   test test test test
   </p>
@@ -69,7 +55,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -79,7 +65,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -89,7 +75,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -99,7 +85,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -109,7 +95,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -119,7 +105,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -129,7 +115,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -139,7 +125,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -149,7 +135,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -159,7 +145,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -169,7 +155,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -179,7 +165,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
@@ -189,7 +175,7 @@ test test test test
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
-  <b> Relation to my research interest</b>
+  <h4> Relation to my research interest</h4>
   <p style="line-height: 2; margin-left: 2em;">
   
   </p>
