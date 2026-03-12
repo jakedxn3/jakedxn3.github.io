@@ -11,5 +11,5 @@ main:
     url: https://jakedxn3.github.io/assets/files/Resume_020626.pdf
   - title: "Projects"
     url: /projects/
-  - title: "AnnBib"
-    url: /_pages/AnnBib.html/
+  #- title: "AnnBib"
+    #url: /_pages/AnnBib.html/
