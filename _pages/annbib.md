@@ -26,14 +26,15 @@ toc: FALSE
     Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., &amp; Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, <i>16</i>(3), 476–487. <a href="https://doi.org/10.1111/j.1472-4642.2010.00654.x">https://doi.org/10.1111/j.1472-4642.2010.00654.x</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1472-4642.2010.00654.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20geography%20of%20climate%20change%3A%20implications%20for%20conservation%20biogeography&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=16&amp;rft.issue=3&amp;rft.aufirst=D.%20D.&amp;rft.aulast=Ackerly&amp;rft.au=D.%20D.%20Ackerly&amp;rft.au=S.%20R.%20Loarie&amp;rft.au=W.%20K.%20Cornwell&amp;rft.au=S.%20B.%20Weiss&amp;rft.au=H.%20Hamilton&amp;rft.au=R.%20Branciforte&amp;rft.au=N.%20J.%20B.%20Kraft&amp;rft.date=2010&amp;rft.pages=476-487&amp;rft.spage=476&amp;rft.epage=487&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
   <p>
-This study assesses changes to climates[GU1.1] in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter) including elimination of current climates and introduction of novel climates. From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log[GU2.1]arithmic scale across the study area. The authors also visualize areas where directional movement responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move would be greater. The opposite is true for the warmer-wetter scenario; responses to remain at the same temperature or precipitation level are in opposite directions. The authors discuss topo climates (0.01-1 km variations) and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate microclimates (<10 m variations) scale approach.
-  </p>
-  <h4> Relation to my research interest</h4>
-  <p style="line-height: 2; margin-left: 2em;">
-  As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by connecting areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data are important for accurate management decisions because topo climates are potential areas where heterogeneity can provide refuge to shifting climates.
+This study assesses changes to climates in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter) including elimination of current climates and introduction of novel climates. From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a logarithmic scale across the study area. The authors also visualize areas where directional movement responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move would be greater. The opposite is true for the warmer-wetter scenario; responses to remain at the same temperature or precipitation level are in opposite directions. The authors discuss topo climates (0.01-1 km variations) and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate microclimates (<10 m variations) scale approach.
+ </p>   
+  <h4> Relation to my research interest</h4>   
+  <p>
+As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by connecting areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data are important for accurate management decisions because topo climates are potential areas where heterogeneity can provide refuge to shifting climates.
+
   </p>
   
-  <h3 id="Backus et al., 2025">
+  <h3 style="text-indent:-2em;" id="Backus et al., 2025">
     Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., &amp; Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? <i>Diversity and Distributions</i>, <i>31</i>(8), e70067. <a href="https://doi.org/10.1111/ddi.70067">https://doi.org/10.1111/ddi.70067</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fddi.70067&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Population%20Decline%20for%20Plants%20in%20the%20California%20Floristic%20Province%3A%20Does%20Demography%20or%20Geography%20Determine%20Climate%20Change%20Vulnerability%3F&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=31&amp;rft.issue=8&amp;rft.aufirst=Gregory%20A.&amp;rft.aulast=Backus&amp;rft.au=Gregory%20A.%20Backus&amp;rft.au=M.%20Brooke%20Rose&amp;rft.au=Santiago%20J.%20E.%20Velazco&amp;rft.au=Janet%20Franklin&amp;rft.au=Alexandra%20D.%20Syphard&amp;rft.au=Helen%20M.%20Regan&amp;rft.date=2025&amp;rft.pages=e70067&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
   <div style="line-height: 2; margin-left: 2em;">
@@ -44,7 +45,7 @@ This study shows a method to integrate two separate processes: the change of hab
 
   </div>
   
-  <h3 id="Beier et al., 2011">
+  <h3 style="text-indent:-2em;" id="Beier et al., 2011">
     Beier, P., Spencer, W., Baldwin, R. F., &amp; McRAE, B. H. (2011). Toward Best Practices for Developing Regional Connectivity Maps. <i>Conservation Biology</i>, <i>25</i>(5), 879–892. <a href="https://doi.org/10.1111/j.1523-1739.2011.01716.x">https://doi.org/10.1111/j.1523-1739.2011.01716.x</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1523-1739.2011.01716.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Toward%20Best%20Practices%20for%20Developing%20Regional%20Connectivity%20Maps&amp;rft.jtitle=Conservation%20Biology&amp;rft.volume=25&amp;rft.issue=5&amp;rft.aufirst=Paul&amp;rft.aulast=Beier&amp;rft.au=Paul%20Beier&amp;rft.au=Wayne%20Spencer&amp;rft.au=Robert%20F.%20Baldwin&amp;rft.au=Brad%20H.%20McRAE&amp;rft.date=2011&amp;rft.pages=879-892&amp;rft.spage=879&amp;rft.epage=892&amp;rft.issn=1523-1739&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -55,7 +56,7 @@ This study shows a method to integrate two separate processes: the change of hab
   test test test test
   </p>
   
-  <h3  id="Derugin et al., 2016">
+  <h3 style="text-indent:-2em;"  id="Derugin et al., 2016">
     Derugin, V. V., Silveira, J. G., Golet, G. H., &amp; LeBuhn, G. (2016). Response of medium- and large-sized terrestrial fauna to corridor restoration along the middle Sacramento River. <i>Restoration Ecology</i>, <i>24</i>(1), 128–136. <a href="https://doi.org/10.1111/rec.12286">https://doi.org/10.1111/rec.12286</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Frec.12286&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Response%20of%20medium-%20and%20large-sized%20terrestrial%20fauna%20to%20corridor%20restoration%20along%20the%20middle%20Sacramento%20River&amp;rft.jtitle=Restoration%20Ecology&amp;rft.volume=24&amp;rft.issue=1&amp;rft.aufirst=Vasilissa%20V.&amp;rft.aulast=Derugin&amp;rft.au=Vasilissa%20V.%20Derugin&amp;rft.au=Joseph%20G.%20Silveira&amp;rft.au=Gregory%20H.%20Golet&amp;rft.au=Gretchen%20LeBuhn&amp;rft.date=2016&amp;rft.pages=128-136&amp;rft.spage=128&amp;rft.epage=136&amp;rft.issn=1526-100X&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -66,7 +67,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
   
-  <h3 id="Gillespie et al., 2024">
+  <h3 style="text-indent:-2em;" id="Gillespie et al., 2024">
     Gillespie, L. E., Ruffley, M., &amp; Exposito-Alonso, M. (2024). Deep learning models map rapid plant species changes from citizen science and remote sensing data. <i>Proceedings of the National Academy of Sciences</i>, <i>121</i>(37), e2318296121. <a href="https://doi.org/10.1073/pnas.2318296121">https://doi.org/10.1073/pnas.2318296121</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.2318296121&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Deep%20learning%20models%20map%20rapid%20plant%20species%20changes%20from%20citizen%20science%20and%20remote%20sensing%20data&amp;rft.jtitle=Proceedings%20of%20the%20National%20Academy%20of%20Sciences&amp;rft.stitle=Proc.%20Natl.%20Acad.%20Sci.%20U.S.A.&amp;rft.volume=121&amp;rft.issue=37&amp;rft.aufirst=Lauren%20E.&amp;rft.aulast=Gillespie&amp;rft.au=Lauren%20E.%20Gillespie&amp;rft.au=Megan%20Ruffley&amp;rft.au=Moises%20Exposito-Alonso&amp;rft.date=2024-09-10&amp;rft.pages=e2318296121&amp;rft.issn=0027-8424%2C%201091-6490&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -77,7 +78,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
   
-  <h3 id="Gregory et al., 2021">
+  <h3 style="text-indent:-2em;" id="Gregory et al., 2021">
     Gregory, A., Spence, E., Beier, P., &amp; Garding, E. (2021). Toward Best Management Practices for Ecological Corridors. <i>Land</i>, <i>10</i>(2), 140. <a href="https://doi.org/10.3390/land10020140">https://doi.org/10.3390/land10020140</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3390%2Fland10020140&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Toward%20Best%20Management%20Practices%20for%20Ecological%20Corridors&amp;rft.jtitle=Land&amp;rft.stitle=Land&amp;rft.volume=10&amp;rft.issue=2&amp;rft.aufirst=Andrew&amp;rft.aulast=Gregory&amp;rft.au=Andrew%20Gregory&amp;rft.au=Emma%20Spence&amp;rft.au=Paul%20Beier&amp;rft.au=Emily%20Garding&amp;rft.date=2021-02-01&amp;rft.pages=140&amp;rft.issn=2073-445X&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -88,7 +89,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
   
-  <h3  id="Howard et al., 2025">
+  <h3 style="text-indent:-2em;"  id="Howard et al., 2025">
     Howard, J. K., Barnett, A. R., Fesenmyer, K. A., &amp; Anderson, M. G. (2025). From fragmentation to resilience: Connectivity and habitat diversity as drivers of fish persistence in California watersheds. <i>PLoS One</i>, <i>20</i>(12), NaN-NaN. <a href="https://doi.org/10.1371/journal.pone.0339212">https://doi.org/10.1371/journal.pone.0339212</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0339212&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=From%20fragmentation%20to%20resilience%3A%20Connectivity%20and%20habitat%20diversity%20as%20drivers%20of%20fish%20persistence%20in%20California%20watersheds&amp;rft.jtitle=PLoS%20One&amp;rft.volume=20&amp;rft.issue=12&amp;rft.aufirst=Jeanette%20K.&amp;rft.aulast=Howard&amp;rft.au=Jeanette%20K.%20Howard&amp;rft.au=Analie%20R.%20Barnett&amp;rft.au=Kurt%20A.%20Fesenmyer&amp;rft.au=Mark%20G.%20Anderson&amp;rft.date=2025-12&amp;rft.pages=NaN%E2%80%93NaN&amp;rft.spage=NaN&amp;rft.epage=NaN&amp;rft.language=English"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -99,7 +100,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
   
-  <h3  id="Huang et al., 2017">
+  <h3 style="text-indent:-2em;"  id="Huang et al., 2017">
     Huang, S., Ramirez, C., Kennedy, K., Mallory, J., Wang, J., &amp; Chu, C. (2017). Updating land cover automatically based on change detection using satellite images: Case study of national forests in Southern California. <i>GIScience &amp; Remote Sensing</i>, <i>54</i>(4), 495–514. <a href="https://doi.org/10.1080/15481603.2017.1286727">https://doi.org/10.1080/15481603.2017.1286727</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F15481603.2017.1286727&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Updating%20land%20cover%20automatically%20based%20on%20change%20detection%20using%20satellite%20images%3A%20case%20study%20of%20national%20forests%20in%20Southern%20California&amp;rft.jtitle=GIScience%20%26%20Remote%20Sensing&amp;rft.stitle=GIScience%20%26%20Remote%20Sensing&amp;rft.volume=54&amp;rft.issue=4&amp;rft.aufirst=Shengli&amp;rft.aulast=Huang&amp;rft.au=Shengli%20Huang&amp;rft.au=Carlos%20Ramirez&amp;rft.au=Kama%20Kennedy&amp;rft.au=Jeffrey%20Mallory&amp;rft.au=Juanle%20Wang&amp;rft.au=Christine%20Chu&amp;rft.date=2017-07-04&amp;rft.pages=495-514&amp;rft.spage=495&amp;rft.epage=514&amp;rft.issn=1548-1603%2C%201943-7226&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -110,7 +111,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3  id="Iverson et al., 2023">
+  <h3 style="text-indent:-2em;"  id="Iverson et al., 2023">
     Iverson, A. R., Humple, D. L., Cormier, R. L., &amp; Hull, J. (2023). Land cover and NDVI are important predictors in habitat selection along migration for the Golden-crowned Sparrow, a temperate-zone migrating songbird. <i>Movement Ecology</i>, <i>11</i>(1), 2. <a href="https://doi.org/10.1186/s40462-022-00353-2">https://doi.org/10.1186/s40462-022-00353-2</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1186%2Fs40462-022-00353-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Land%20cover%20and%20NDVI%20are%20important%20predictors%20in%20habitat%20selection%20along%20migration%20for%20the%20Golden-crowned%20Sparrow%2C%20a%20temperate-zone%20migrating%20songbird&amp;rft.jtitle=Movement%20Ecology&amp;rft.stitle=Mov%20Ecol&amp;rft.volume=11&amp;rft.issue=1&amp;rft.aufirst=Autumn%20R.&amp;rft.aulast=Iverson&amp;rft.au=Autumn%20R.%20Iverson&amp;rft.au=Diana%20L.%20Humple&amp;rft.au=Ren%C3%A9e%20L.%20Cormier&amp;rft.au=Josh%20Hull&amp;rft.date=2023-01-13&amp;rft.pages=2&amp;rft.issn=2051-3933&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -121,7 +122,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3  id="Kimball et al., 2014">
+  <h3 style="text-indent:-2em;"  id="Kimball et al., 2014">
     Kimball, S., Goulden, M. L., Suding, K. N., &amp; Parker, S. (2014). Altered water and nitrogen input shifts succession in a southern California coastal sage community. <i>Ecological Applications</i>, <i>24</i>(6), 1390–1404. <a href="https://doi.org/10.1890/13-1313.1">https://doi.org/10.1890/13-1313.1</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1890%2F13-1313.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Altered%20water%20and%20nitrogen%20input%20shifts%20succession%20in%20a%20southern%20California%20coastal%20sage%20community&amp;rft.jtitle=Ecological%20Applications&amp;rft.volume=24&amp;rft.issue=6&amp;rft.aufirst=Sarah&amp;rft.aulast=Kimball&amp;rft.au=Sarah%20Kimball&amp;rft.au=Michael%20L.%20Goulden&amp;rft.au=Katharine%20N.%20Suding&amp;rft.au=Scot%20Parker&amp;rft.date=2014&amp;rft.pages=1390-1404&amp;rft.spage=1390&amp;rft.epage=1404&amp;rft.issn=1939-5582&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -132,7 +133,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="Lambrinos, 2006">
+  <h3 style="text-indent:-2em;" id="Lambrinos, 2006">
     Lambrinos, J. G. (2006). Spatially variable propagule pressure and herbivory influence invasion of chaparral shrubland by an exotic grass. <i>Oecologia</i>, <i>147</i>(2), 327–334. <a href="https://doi.org/10.1007/s00442-005-0259-1">https://doi.org/10.1007/s00442-005-0259-1</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs00442-005-0259-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spatially%20variable%20propagule%20pressure%20and%20herbivory%20influence%20invasion%20of%20chaparral%20shrubland%20by%20an%20exotic%20grass&amp;rft.jtitle=Oecologia&amp;rft.stitle=Oecologia&amp;rft.volume=147&amp;rft.issue=2&amp;rft.aufirst=John%20G.&amp;rft.aulast=Lambrinos&amp;rft.au=John%20G.%20Lambrinos&amp;rft.date=2006-03-01&amp;rft.pages=327-334&amp;rft.spage=327&amp;rft.epage=334&amp;rft.issn=1432-1939&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -143,7 +144,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="Lawson et al., 2010">
+  <h3 style="text-indent:-2em;" id="Lawson et al., 2010">
     Lawson, D. M., Regan, H. M., Zedler, P. H., &amp; Franklin, J. (2010). Cumulative effects of land use, altered fire regime and climate change on persistence of Ceanothus verrucosus, a rare, fire-dependent plant species. <i>Global Change Biology</i>, <i>16</i>(9), 2518–2529. <a href="https://doi.org/10.1111/j.1365-2486.2009.02143.x">https://doi.org/10.1111/j.1365-2486.2009.02143.x</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-2486.2009.02143.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Cumulative%20effects%20of%20land%20use%2C%20altered%20fire%20regime%20and%20climate%20change%20on%20persistence%20of%20Ceanothus%20verrucosus%2C%20a%20rare%2C%20fire-dependent%20plant%20species&amp;rft.jtitle=Global%20Change%20Biology&amp;rft.volume=16&amp;rft.issue=9&amp;rft.aufirst=Dawn%20M.&amp;rft.aulast=Lawson&amp;rft.au=Dawn%20M.%20Lawson&amp;rft.au=Helen%20M.%20Regan&amp;rft.au=Paul%20H.%20Zedler&amp;rft.au=Janet%20Franklin&amp;rft.date=2010&amp;rft.pages=2518-2529&amp;rft.spage=2518&amp;rft.epage=2529&amp;rft.issn=1365-2486&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -154,7 +155,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="McIntyre et al., 2015">
+  <h3 style="text-indent:-2em;" id="McIntyre et al., 2015">
     McIntyre, P. J., Thorne, J. H., Dolanc, C. R., Flint, A. L., Flint, L. E., Kelly, M., &amp; Ackerly, D. D. (2015). Twentieth-century shifts in forest structure in California: Denser forests, smaller trees, and increased dominance of oaks. <i>Proceedings of the National Academy of Sciences</i>, <i>112</i>(5), 1458–1463. <a href="https://doi.org/10.1073/pnas.1410186112">https://doi.org/10.1073/pnas.1410186112</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1410186112&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Twentieth-century%20shifts%20in%20forest%20structure%20in%20California%3A%20Denser%20forests%2C%20smaller%20trees%2C%20and%20increased%20dominance%20of%20oaks&amp;rft.jtitle=Proceedings%20of%20the%20National%20Academy%20of%20Sciences&amp;rft.volume=112&amp;rft.issue=5&amp;rft.aufirst=Patrick%20J.&amp;rft.aulast=McIntyre&amp;rft.au=Patrick%20J.%20McIntyre&amp;rft.au=James%20H.%20Thorne&amp;rft.au=Christopher%20R.%20Dolanc&amp;rft.au=Alan%20L.%20Flint&amp;rft.au=Lorraine%20E.%20Flint&amp;rft.au=Maggi%20Kelly&amp;rft.au=David%20D.%20Ackerly&amp;rft.date=2015-02-03&amp;rft.pages=1458-1463&amp;rft.spage=1458&amp;rft.epage=1463"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -165,7 +166,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="Park et al., 2018">
+  <h3 style="text-indent:-2em;" id="Park et al., 2018">
     Park, I. W., Hooper, J., Flegal, J. M., &amp; Jenerette, G. D. (2018). Impacts of climate, disturbance and topography on distribution of herbaceous cover in Southern California chaparral: Insights from a remote-sensing method. <i>Diversity and Distributions</i>, <i>24</i>(4), 497–508. <a href="https://doi.org/10.1111/ddi.12693">https://doi.org/10.1111/ddi.12693</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fddi.12693&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Impacts%20of%20climate%2C%20disturbance%20and%20topography%20on%20distribution%20of%20herbaceous%20cover%20in%20Southern%20California%20chaparral%3A%20Insights%20from%20a%20remote-sensing%20method&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=24&amp;rft.issue=4&amp;rft.aufirst=Isaac%20W.&amp;rft.aulast=Park&amp;rft.au=Isaac%20W.%20Park&amp;rft.au=Jennifer%20Hooper&amp;rft.au=James%20M.%20Flegal&amp;rft.au=G.%20Darrel%20Jenerette&amp;rft.date=2018&amp;rft.pages=497-508&amp;rft.spage=497&amp;rft.epage=508&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -176,7 +177,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="Rissman & Merenlender, 2008">
+  <h3 style="text-indent:-2em;" id="Rissman & Merenlender, 2008">
     Rissman, A., &amp; Merenlender, A. (2008). Ecology and Society: The Conservation Contributions of Conservation Easements: Analysis of the San Francisco Bay Area Protected Lands Spatial Database. <i>Ecology and Society</i>, <i>13</i>(1). <a href="https://doi.org/10.5751/ES-02329-130140">https://doi.org/10.5751/ES-02329-130140</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.5751%2FES-02329-130140&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ecology%20and%20Society%3A%20The%20Conservation%20Contributions%20of%20Conservation%20Easements%3A%20Analysis%20of%20the%20San%20Francisco%20Bay%20Area%20Protected%20Lands%20Spatial%20Database&amp;rft.jtitle=Ecology%20and%20Society&amp;rft.volume=13&amp;rft.issue=1&amp;rft.aufirst=Adena&amp;rft.aulast=Rissman&amp;rft.au=Adena%20Rissman&amp;rft.au=Adina%20Merenlender&amp;rft.date=2008-06-23&amp;rft.issn=1708-3087&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -187,7 +188,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="Stemle et al., 2025">
+  <h3 style="text-indent:-2em;" id="Stemle et al., 2025">
     Stemle, L. R., Laabs, D., &amp; Searcy, C. A. (2025). Land use change, fragmentation, and sea level rise create escalating viability concerns for an imperiled salamander. <i>Ecosphere</i>, <i>16</i>(5), e70284. <a href="https://doi.org/10.1002/ecs2.70284">https://doi.org/10.1002/ecs2.70284</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1002%2Fecs2.70284&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Land%20use%20change%2C%20fragmentation%2C%20and%20sea%20level%20rise%20create%20escalating%20viability%20concerns%20for%20an%20imperiled%20salamander&amp;rft.jtitle=Ecosphere&amp;rft.volume=16&amp;rft.issue=5&amp;rft.aufirst=Leyna%20R.&amp;rft.aulast=Stemle&amp;rft.au=Leyna%20R.%20Stemle&amp;rft.au=David%20Laabs&amp;rft.au=Christopher%20A.%20Searcy&amp;rft.date=2025&amp;rft.pages=e70284&amp;rft.issn=2150-8925&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
@@ -198,7 +199,7 @@ This study shows a method to integrate two separate processes: the change of hab
   
   </p>
 
-  <h3 id="Syphard et al., 2013">
+  <h3 style="text-indent:-2em;" id="Syphard et al., 2013">
     Syphard, A. D., Regan, H. M., Franklin, J., Swab, R. M., &amp; Bonebrake, T. C. (2013). Does functional type vulnerability to multiple threats depend on spatial context in Mediterranean-climate regions? <i>Diversity and Distributions</i>, <i>19</i>(10), 1263–1274. <a href="https://doi.org/10.1111/ddi.12076">https://doi.org/10.1111/ddi.12076</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fddi.12076&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Does%20functional%20type%20vulnerability%20to%20multiple%20threats%20depend%20on%20spatial%20context%20in%20Mediterranean-climate%20regions%3F&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=19&amp;rft.issue=10&amp;rft.aufirst=Alexandra%20D.&amp;rft.aulast=Syphard&amp;rft.au=Alexandra%20D.%20Syphard&amp;rft.au=Helen%20M.%20Regan&amp;rft.au=Janet%20Franklin&amp;rft.au=Rebecca%20M.%20Swab&amp;rft.au=Timothy%20C.%20Bonebrake&amp;rft.date=2013&amp;rft.pages=1263-1274&amp;rft.spage=1263&amp;rft.epage=1274&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
 <p style="line-height: 2; margin-left: 2em;">
