@@ -24,23 +24,23 @@ toc: true
   <h3 id="(Ackerly et al., 2010)">
     Ackerly, D. D., Loarie, S. R., Cornwell, W. K., Weiss, S. B., Hamilton, H., Branciforte, R., &amp; Kraft, N. J. B. (2010). The geography of climate change: Implications for conservation biogeography. <i>Diversity and Distributions</i>, <i>16</i>(3), 476–487. <a href="https://doi.org/10.1111/j.1472-4642.2010.00654.x">https://doi.org/10.1111/j.1472-4642.2010.00654.x</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1472-4642.2010.00654.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20geography%20of%20climate%20change%3A%20implications%20for%20conservation%20biogeography&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=16&amp;rft.issue=3&amp;rft.aufirst=D.%20D.&amp;rft.aulast=Ackerly&amp;rft.au=D.%20D.%20Ackerly&amp;rft.au=S.%20R.%20Loarie&amp;rft.au=W.%20K.%20Cornwell&amp;rft.au=S.%20B.%20Weiss&amp;rft.au=H.%20Hamilton&amp;rft.au=R.%20Branciforte&amp;rft.au=N.%20J.%20B.%20Kraft&amp;rft.date=2010&amp;rft.pages=476-487&amp;rft.spage=476&amp;rft.epage=487&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
-<p >
-test test test test
-</p>
-<h4> Relation to my research interest</h4>
-<p style="line-height: 2; margin-left: 2em;">
-test test test test
-</p>
+  <p style="line-height: 2; margin-left: 2em;">
+  This study assesses changes to climates[GU1.1] in California and Nevada under two future climate scenarios (warmer-drier and warmer-wetter) including elimination of current climates and introduction of novel climates. From baseline climate PRISM data, the authors mapped future climate distributions and tabulated mean temperatures and precipitation on a log[GU2.1]arithmic scale across the study area. The authors also visualize areas where directional movement responses to offset climate change differ between climate variables. In the warmer-drier scenario, responses for temperature and precipitation are generally in the same direction but impacts on organisms that cannot move would be greater. The opposite is true for the warmer-wetter scenario; responses to remain at the same temperature or precipitation level are in opposite directions. The authors discuss topo climates (0.01-1 km variations) and microclimates as potential areas where heterogeneity can provide refuge to shifting climates in the short term and may show greater resilience to climate change than shown in their mesoclimate microclimates (<10 m variations) scale approach.
+  </p>
+  <h4> Relation to my research interest</h4>
+  <p style="line-height: 2; margin-left: 2em;">
+  As noted in the study, climate change is causing shifts in suitable habitats for plants and animals across California. The data presented here can be used to guide conservation strategies by connecting areas of current habitat with areas of likely future habitat. Additionally, novel climates represent an area of likely increased invasive presence that should be managed. High resolution elevation and climate data are important for accurate management decisions because topo climates are potential areas where heterogeneity can provide refuge to shifting climates.
+  </p>
   
   <h3 id="Backus et al., 2025">
     Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., &amp; Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? <i>Diversity and Distributions</i>, <i>31</i>(8), e70067. <a href="https://doi.org/10.1111/ddi.70067">https://doi.org/10.1111/ddi.70067</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fddi.70067&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Population%20Decline%20for%20Plants%20in%20the%20California%20Floristic%20Province%3A%20Does%20Demography%20or%20Geography%20Determine%20Climate%20Change%20Vulnerability%3F&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=31&amp;rft.issue=8&amp;rft.aufirst=Gregory%20A.&amp;rft.aulast=Backus&amp;rft.au=Gregory%20A.%20Backus&amp;rft.au=M.%20Brooke%20Rose&amp;rft.au=Santiago%20J.%20E.%20Velazco&amp;rft.au=Janet%20Franklin&amp;rft.au=Alexandra%20D.%20Syphard&amp;rft.au=Helen%20M.%20Regan&amp;rft.date=2025&amp;rft.pages=e70067&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
   <p style="line-height: 2; margin-left: 2em;">
-  test test test test
-  </p>
-  <h4> Relation to my research interest</h4>
-  <p style="line-height: 2; margin-left: 2em;">
-  test test test test
+  In this study, authors selected two each of oak, ceanothus, and pine species to evaluate their vulnerability to climate change based on changes in local carrying capacity, determined by amount of suitable habitat. Habitat distribution was measured from CDFW baseline data projected into the future to 2085 with two climate models and two emissions models. Demographic models for each species were implemented from previous studies based on metrics of survival, reproduction, and local seed or vegetal dispersal. Both the distribution and the [JD3.1]demographic models were combined in a simulation which predicted relative abundance of the 6 selected species across California over time. To answer the research question, demographic models for every species were applied to the distribution model for each species.
+Authors concluded that all 6 species would ultimately decline in the study's timeframe due to climate and land use change; however, it was also concluded that the difference between each species’ demography was a significant factor for determining relative abundance in local populations of each species. 
+<b>Relation to my research interest</b>
+This study shows a method to integrate two separate processes: the change of habitats spatially over time, and the ability for species populations to successfully track those changes. Due to differences in life history and reproductive characteristics, the future distribution of plant populations in relation to proposed species distribution models can vary wildly. This method can be adapted to other species of interest.
+
   </p>
   
   <h3 id="Beier et al., 2011">
