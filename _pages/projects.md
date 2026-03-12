@@ -1,12 +1,12 @@
 ---
 layout: single
 title: "Projects"
-sitemap: false
+sitemap: TRUE
 permalink: /projects/
-author_profile: FALSE
+author_profile: TRUE
 
 ---
 
-# Coursework
-- [GEOG 560 Annotated Bibliography](https://www.jacob-dixon.com/projects/AnnBib/)
+## Coursework
+[Habitat fragmentation in California: Impacts of land use, climate change, and invasive species](https://www.jacob-dixon.com/projects/AnnBib/)
   
