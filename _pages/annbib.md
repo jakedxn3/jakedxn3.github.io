@@ -5,7 +5,7 @@ header:
   overlay_filter: rgba(38, 148, 37, 0.25)
 title: "Habitat fragmentation in California: Impacts of land use, climate change, and invasive species"
 sitemap: false
-permalink: /projects/AnnBib/
+permalink: /projects/annotated-bibliography/
 author_profile: FALSE
 classes:
   - wide
