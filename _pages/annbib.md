@@ -1,7 +1,7 @@
 ---
 layout: splash
 header:
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/Jacob.jpg
 title: "GEOG 560 Annotated Bibliography"
 sitemap: false
 permalink: /projects/AnnBib/
