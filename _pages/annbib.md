@@ -2,21 +2,19 @@
 layout: splash
 header:
   overlay_image: /assets/images/splash.jpg
+  overlay_filter: rgba(38, 148, 37, 0.25)
 title: "Habitat fragmentation in California: Impacts of land use, climate change, and invasive species"
 sitemap: false
 permalink: /projects/AnnBib/
 author_profile: FALSE
 classes:
   - wide
-skin: dark
 toc: FALSE
 
 ---
 
 # Annotated Bibliography for GEOG 560
-
 ## Compiled by Jacob Dixon
-
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em;">
   
@@ -34,7 +32,7 @@ As noted in the study, climate change is causing shifts in suitable habitats for
     Backus, G. A., Rose, M. B., Velazco, S. J. E., Franklin, J., Syphard, A. D., &amp; Regan, H. M. (2025). Population Decline for Plants in the California Floristic Province: Does Demography or Geography Determine Climate Change Vulnerability? <i>Diversity and Distributions</i>, <i>31</i>(8), e70067. <a href="https://doi.org/10.1111/ddi.70067">https://doi.org/10.1111/ddi.70067</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fddi.70067&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Population%20Decline%20for%20Plants%20in%20the%20California%20Floristic%20Province%3A%20Does%20Demography%20or%20Geography%20Determine%20Climate%20Change%20Vulnerability%3F&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=31&amp;rft.issue=8&amp;rft.aufirst=Gregory%20A.&amp;rft.aulast=Backus&amp;rft.au=Gregory%20A.%20Backus&amp;rft.au=M.%20Brooke%20Rose&amp;rft.au=Santiago%20J.%20E.%20Velazco&amp;rft.au=Janet%20Franklin&amp;rft.au=Alexandra%20D.%20Syphard&amp;rft.au=Helen%20M.%20Regan&amp;rft.date=2025&amp;rft.pages=e70067&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
   <p>
-In this study, authors selected two each of oak, ceanothus, and pine species to evaluate their vulnerability to climate change based on changes in local carrying capacity, determined by amount of suitable habitat. Habitat distribution was measured from CDFW baseline data projected into the future to 2085 with two climate models and two emissions models. Demographic models for each species were implemented from previous studies based on metrics of survival, reproduction, and local seed or vegetal dispersal. Both the distribution and the demographic models were combined in a simulation which predicted relative abundance of the 6 selected species across California over time. To answer the research question, demographic models for all 6 species were applied to the distribution model for each species.
+In this study, authors selected two each of oak, ceanothus, and pine species to evaluate their vulnerability to climate change based on changes in local carrying capacity, determined by amount of suitable habitat. Habitat distribution was measured from CDFW baseline data projected into the future to 2085 with two climate models and two emissions models. Demographic models for each species were implemented from previous studies based on metrics of survival, reproduction, and local seed or vegetal dispersal. Both the distribution and the demographic models were combined in a simulation which predicted relative abundance of the 6 selected species across California over time. To answer the research question, demographic models for all 6 species were applied to the distribution model for each species. <br/>
 Authors concluded that all 6 species would ultimately decline in the study's timeframe due to climate and land use change; however, it was also concluded that the difference between each species’ demography was a significant factor for determining relative abundance in local populations of each species. 
 <br/><b>Relation to my research interest</b><br/>
 This study shows a method to integrate two separate processes: the change of habitats spatially over time, and the ability for species populations to successfully track those changes. Due to differences in life history and reproductive characteristics, the future distribution of plant populations in relation to proposed species distribution models can vary. This method can be adapted to other species of interest.
@@ -177,7 +175,7 @@ As the study discusses, plant community changes in response to climate change ar
     Park, I. W., Hooper, J., Flegal, J. M., &amp; Jenerette, G. D. (2018). Impacts of climate, disturbance and topography on distribution of herbaceous cover in Southern California chaparral: Insights from a remote-sensing method. <i>Diversity and Distributions</i>, <i>24</i>(4), 497–508. <a href="https://doi.org/10.1111/ddi.12693">https://doi.org/10.1111/ddi.12693</a></h3>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fddi.12693&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Impacts%20of%20climate%2C%20disturbance%20and%20topography%20on%20distribution%20of%20herbaceous%20cover%20in%20Southern%20California%20chaparral%3A%20Insights%20from%20a%20remote-sensing%20method&amp;rft.jtitle=Diversity%20and%20Distributions&amp;rft.volume=24&amp;rft.issue=4&amp;rft.aufirst=Isaac%20W.&amp;rft.aulast=Park&amp;rft.au=Isaac%20W.%20Park&amp;rft.au=Jennifer%20Hooper&amp;rft.au=James%20M.%20Flegal&amp;rft.au=G.%20Darrel%20Jenerette&amp;rft.date=2018&amp;rft.pages=497-508&amp;rft.spage=497&amp;rft.epage=508&amp;rft.issn=1472-4642&amp;rft.language=en"></span>
   <p>
-In this study, the authors use Landsat derived NDVI to identify the distribution of herbaceous cover in historically chapparal-dominated landscapes in the Angeles National Forest (ANF). The authors selected pixels classified as shrublands by National Land Cover Database (NLCD). They excluded pixels outside of typical chapparal elevation bands, precipitation ranges, and those that intersected fire perimeters in the previous 20 years because chapparal vegetation may be returning but is not yet distinguishable. The remaining study area covered 858 km^2, or 32% of ANF. <br/>
+In this study, the authors use Landsat derived NDVI to identify the distribution of herbaceous cover in historically chapparal-dominated landscapes in the Angeles National Forest (ANF). The authors selected pixels classified as shrublands by National Land Cover Database (NLCD). They excluded pixels outside of typical chapparal elevation bands, precipitation ranges, and those that intersected fire perimeters in the previous 20 years because chapparal vegetation may be returning but is not yet distinguishable. <br/>
 The study found that remotely sensed data accurately predicted herbaceous cover compared to field methods. The greatest predictor of herbaceous cover was precipitation (negative correlation), but herbaceous cover is also correlated with proximity to forest boundaries, roads, and other urban land uses. The authors only considered paved roads, citing a lack of high-resolution data of unpaved roads that dissect National Forests. Because the study eliminated areas burned within the last 20 years, impacts of increased fire intervals on herbaceous cover were not fully studied.
 <br/><b>Relation to my research interest</b><br/>
 This study provided an overview for predicting herbaceous cover under current conditions. The method presented here can be refined to model potential invasions into chapparal dominated landscapes in the future. As noted in the study, roads and land use boundaries are major sources of invasion and disturbance in the form of increased fire regimes. Further study could include unpaved roads which are common throughout National Forests. Additionally, it would be interesting to differentiate between native and invasive herbaceous cover and test this model using higher resolution NAIP data.
