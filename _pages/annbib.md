@@ -1,7 +1,7 @@
 ---
 layout: splash
 header:
-  overlay_image: /assets/images/splash.jpg****
+  overlay_image: /assets/images/splash.jpg
 title: "Habitat fragmentation in California: Impacts of land use, climate change, and invasive species"
 sitemap: false
 permalink: /projects/AnnBib/
