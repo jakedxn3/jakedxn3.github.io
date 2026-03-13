@@ -1,8 +1,6 @@
 ---
 layout: splash
 header:
- 
-  overlay_filter: "0.5"
   overlay_image: /assets/images/splash.jpg
 title: "GEOG 560 Annotated Bibliography"
 sitemap: false
