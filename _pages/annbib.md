@@ -2,7 +2,7 @@
 layout: splash
 header:
   overlay_image: /assets/images/splash.jpg
-  overlay_filter: rgba(252, 58, 82, 0.5)
+  overlay_filter: rgba(252, 58, 82, 0.25)
 title: "Habitat fragmentation in California: Impacts of land use, climate change, and invasive species"
 sitemap: false
 permalink: /projects/annotated-bibliography/
